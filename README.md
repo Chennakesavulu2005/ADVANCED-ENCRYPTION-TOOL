@@ -1,11 +1,10 @@
 # -ADVANCED-ENCRYPTION-TOOL
- A TOOL TO ENCRYPT AND  DECRYPT FILES USING ADVANCED  ALGORITHMS LIKE AES-256<br>
-  NAME : Konatham Chennakesavulu
- INTERN  I:CT06DH1266
- DOMAIN : CYBER SECURITY AND ETHICAL HACKING
- DURATION : 6 WEEKS
- MENTOR : NEELA SANTOSH
-
+ A TOOL TO ENCRYPT AND  DECRYPT FILES USING ADVANCED  ALGORITHMS LIKE AES-256
+ ** NAME : Konatham Chennakesavulu **
+** INTERN  I:CT06DH1266 **
+** DOMAIN : CYBER SECURITY AND ETHICAL HACKING **
+** DURATION : 6 WEEKS **
+** MENTOR : NEELA SANTOSH **
 
 ## Overview
 The **Advanced Encryption Tool** is a robust Python-based application designed to encrypt and decrypt files securely using **AES-256 encryption**. This tool ensures data confidentiality by providing a user-friendly interface for protecting sensitive information.
